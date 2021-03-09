@@ -1,0 +1,23 @@
+{
+  "name": "funwithnick",
+  "version": "1.0.0",
+  "description": "This is a test project",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haddleyoffice365/funWithNick.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haddleyoffice365/funWithNick/issues"
+  },
+  "homepage": "https://github.com/haddleyoffice365/funWithNick#readme"
+}
